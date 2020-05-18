@@ -26,10 +26,9 @@ Ruby/Ruby on Rails
 Rspec  
 基本的なRspecのテストを書くことができます。関連したライブラリを使って、ダミーの作成やテストデータの削除等ができます。
 
-- インフラ
-AWS(EC2,RDS,ELB,AMI)  
+- インフラ  
+AWS(EC2,RDS,ELB,AMI)/Vagrant/VirtualBox  
 独自ドメインでのデプロイまでを学びました。
-Vagrant/VirtualBox
 
 ## 自主学習した内容
 - サーバーサイド
